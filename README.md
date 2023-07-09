@@ -6,7 +6,7 @@ Frontend Developer
 
 I am currently pursuing B.tech in Computer Science. I started with HTML, but have really found a passion for Frontend development...
 
-* 🌍  I'm based in I'm based in Patiala, Punjab
+* 🌍  I'm based in Bhawanigarh, Sangrur, Punjab
 * ✉️  You can contact me at [jagjeetsinghj702@gmail.com](mailto:jagjeetsinghj702@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on interesting Projects
@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/SardarJagjeetSingh?logo=github&styl
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/jagjeet#5153" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Jagjeet Jaggi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SardarJagjeetSingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sardar_jagjeet_singh_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/JAGJEET SINGH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/jagjeet#5153" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="[https://www.facebook.com/Jagjeet Jaggi](https://www.facebook.com/jaggi.bk.12)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SardarJagjeetSingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[http://www.instagram.com/sardar_jagjeet_singh_](https://www.instagram.com/sardar_jagjeet_singh_)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/JAGJEET SINGH](https://www.linkedin.com/in/jagjeet-singh-ab0b9825a)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
